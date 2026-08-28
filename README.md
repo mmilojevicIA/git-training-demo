@@ -1,2 +1,7 @@
-"GitHub remote practice" 
-Another GitHub practice line 
+## Developer Setup
+
+Install Git.
+
+Clone the repository.
+
+Create a feature branch before making changes.
